@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myDiary</string>
+    <string name="drop_table_if_exists">DROP TABLE IF EXISTS</string>
+</resources>
